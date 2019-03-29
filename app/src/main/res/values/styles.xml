@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Toolbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="TextHeading" parent="android:Widget.TextView">
+        <item name="android:layout_marginBottom">@dimen/default_margin</item>
+        <item name="android:textSize">@dimen/heading_text_size</item>
+    </style>
+
+    <style name="TextDetailLabel" parent="android:Widget.TextView">
+        <item name="android:paddingRight">@dimen/default_margin</item>
+        <item name="android:textSize">@dimen/body_large_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextLargeBody" parent="android:Widget.TextView">
+        <item name="android:layout_marginBottom">@dimen/default_margin</item>
+        <item name="android:textSize">@dimen/body_large_text_size</item>
+    </style>
+
+
+    <style name="TextErrorStyle" parent="TextAppearance.Design.Error">
+        <item name="android:layout_margin">@dimen/fab_margin</item>
+        <item name="android:textSize">@dimen/label_text_size</item>
+        <item name="android:textColor">@color/colorError</item>
+    </style>
+
+    <style name="LoginButtons">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">@dimen/default_margin</item>
+    </style>
+
+    <style name="DefaultButton" parent="Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_margin">@dimen/default_margin</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+</resources>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Pet Shelter Finder</string>
+    <string name="name_label">Name: </string>
+    <string name="age_label">Age: </string>
+    <string name="breed_label">Breed: </string>
+    <string name="contact_label">Contact: </string>
+    <string name="phone_label">Phone: </string>
+    <string name="email_label">Email: </string>
+
+    <string name="pet_image_description">Pet image</string>
+    <string name="search">Search</string>
+    <string name="shelters">Shelters</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="visit_website">Visit Website</string>
+
+    <string name="learn_more">Learn More</string>
+    <string name="age_format">%d year(s)</string>
+    <string name="sex_label">Sex:</string>
+    <string name="species_label">Species:</string>
+    <string name="location_label">Where am I?:</string>
+    <string name="my_stats_label">My Stats:</string>
+    <string name="favouited_pets">Favouited Pets</string>
+    <string name="saved_shelters">Saved Shelter</string>
+
+    <string name="desexed">Desexed\n</string>
+    <string name="microchipped">Microchipped\n</string>
+    <string name="view_shelter">View Shelter</string>
+    <string name="view_shelter_details">View location details</string>
+    <string name="view_pets_at_shelter">View pets at shelter</string>
+    <string name="title_activity_favourited_pets">Favourited Pets</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="pets_for_adoption">Pets for adoption</string>
+    <string name="view_shelters">View shelters</string>
+    <string name="account">Account</string>
+    <string name="filter_s">Filter %s</string>
+    <string name="filter_pets">Filter Pets</string>
+    <string name="reset">Reset</string>
+    <string name="apply">Apply</string>
+    <string name="status">Status</string>
+    <string name="available">Available</string>
+    <string name="foster_care">Foster Care</string>
+    <string name="adopted">Adopted</string>
+    <string name="favourite">Favourite</string>
+    <string name="filters_applied">Filters applied</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">The email or password is incorrect</string>
+    <string name="login">Login/Register</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="error_confirm_password">Password does not match</string>
+    <string name="fill_values_request">Please fill out all values</string>
+    <string name="loading">Loading…</string>
+    <string name="no_shelters_message">You have no shelters saved</string>
+
+</resources>

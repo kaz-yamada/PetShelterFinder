@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/nav_header_main">
+    <item
+        android:id="@+id/shelter_map_menu_item"
+        android:icon="@drawable/ic_map"
+        android:title="@string/shelters" />
+    <item
+        android:id="@+id/search_shelters_menu_item"
+        android:icon="@drawable/ic_view_list"
+        android:title="@string/search" />
+</menu>

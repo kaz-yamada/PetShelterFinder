@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Margins-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="default_margin">8dp</dimen>
+
+    <dimen name="placeholder_image">110dp</dimen>
+    <dimen name="placeholder_text_height">26dp</dimen>
+    <dimen name="placeholder_body_text_height">20dp</dimen>
+
+    <dimen name="arrow_drawable_size">50dp</dimen>
+    <dimen name="shelter_image_height">220dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="favourite_button_size">40dp</dimen>
+
+    <!--Text sizes-->
+    <dimen name="body_large_text_size">18sp</dimen>
+    <dimen name="label_text_size">22sp</dimen>
+    <dimen name="heading_text_size">26sp</dimen>
+</resources>
